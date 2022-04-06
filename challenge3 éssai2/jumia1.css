@@ -1,0 +1,101 @@
+
+.btn{
+  font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif !important;
+  font-weight: bold !important;
+  font-size: 12px !important;
+  border-color: #f68b1e !important;
+  padding: 8px 12px 8px 12px !important;
+  background-color: #f68b1e !important;
+  border-radius: 4px !important;
+  text-align: center !important;
+  text-transform: uppercase;
+  color: white !important;
+}
+#icon1 i{
+  width: 24px !important;
+  height: 32px !important;
+}
+a.nav-link{
+  font-size: 16px !important;
+  padding: 0;
+}
+a.nav-link:hover{
+color: #f68b1e !important;
+}
+#li{
+  font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif !important;
+  font-size: 14px !important;
+}
+
+
+#bar{
+  width: 180px;
+  font-size: 12px;
+  padding-left: 0px;
+}
+a.dropdown-item{
+  height: 32px !important;
+}
+#icon2 i{
+  height: 18px !important;
+  width: 20px !important;
+}
+
+
+
+.carousel-item {
+  height: 384px !important;
+}
+.carousel-indicators li {
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 100%;
+}
+.carousel-indicators {
+  bottom: -25px;
+}
+
+
+.col-2#col2{
+  width: 200px;
+  padding: 0px;
+  margin: 0px;
+  height: 384px;
+}
+#div1{
+  height: 186px;
+  width: 200px;
+  margin-bottom: 20px;
+  background-color: white !important;
+}
+#flex{
+  font-size: 12px;
+  text-decoration: none !important;
+  color: black;
+}
+
+
+
+div.col-lg{
+  width: 280px;
+  height: 56px;
+  padding: 8px;
+}
+.flex{
+  color: black;
+  text-decoration: none;
+}
+
+.card{
+  position: relative;
+}
+#prcent{
+  background-color: rgb(245, 132, 132);
+  color: brown;
+ position: absolute;
+ top: 5px;
+ right: 5px;
+}
+#pr{
+  text-decoration: line-through;
+}

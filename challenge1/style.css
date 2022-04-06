@@ -1,0 +1,37 @@
+h2{
+  font-size: 64px;
+}
+.paragraphe{
+  font-size: 25px;
+}
+ i{
+  color: white;
+  background-color: #7952b3;
+  width: 32px;
+}
+
+button:hover{
+  background-color: #ffe484;
+  color: black;
+} 
+.nav-link{
+  color: white !important;
+}
+.btn-outline-warning {
+  color: #ffe484 !important;
+  border-color: #ffe484 !important;
+} 
+.btn-outline-warning:hover {
+  color: black !important;
+  border-color: #ffe484 !important;
+} 
+.my-nav{
+  background-color: #7952b3 !important;
+}
+.my-btn{
+  background-color: #7952b3 !important;
+}
+img{
+  width: 448px;
+  height: 348px;
+}
